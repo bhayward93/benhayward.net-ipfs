@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">BENHAYWARD.NET</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2018-09-24T21:23:31+01:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Ben Hayward</name>
+  <uri>http://localhost:4000/</uri>
+  <email>benhayward.ben@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[An Introduction]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/personal/first-post/" />
+  <id>http://localhost:4000/personal/first-post</id>
+  <updated>2018-09-24T00:00:00-00:00</updated>
+  <published>2018-09-24T00:00:00+01:00</published>
+  
+  <author>
+    <name>Ben Hayward</name>
+    <uri>http://localhost:4000</uri>
+    <email>benhayward.ben@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;h2 id=&quot;this-blog&quot;&gt;This Blog&lt;/h2&gt;
+
+&lt;p&gt;This blog has been hosted on IPFS, soon I will be adding a tutorial so that you can see how you too can create a decentralized Jekyll/IPFS blog site, and host it for free for pennies a month.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-am-i&quot;&gt;Who am I&lt;/h2&gt;
+&lt;p&gt;I’m a Developer &amp;amp; architect based in the north-east of England, with a BSc (Hons) in Computer Science. Decentralized systems are currently my primary focus, I am absolutely fascinated currently with IPFS and DLT technology (HyperLedger!). I try to keep on the bleeding edge where possible, because it’s pretty damn fun here.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-will-i-be-posting-about&quot;&gt;What will I be posting about&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;General Programming Ramblings.&lt;/li&gt;
+  &lt;li&gt;Blockchain.&lt;/li&gt;
+  &lt;li&gt;General Decentralized tech.&lt;/li&gt;
+  &lt;li&gt;DLT / NoDB Solutions.&lt;/li&gt;
+  &lt;li&gt;Maybe the occasional funny.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/personal/first-post/&quot;&gt;An Introduction&lt;/a&gt; was originally published by Ben Hayward at &lt;a href=&quot;http://localhost:4000&quot;&gt;BENHAYWARD.NET&lt;/a&gt; on September 24, 2018.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
